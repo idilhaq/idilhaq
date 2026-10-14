@@ -5,7 +5,7 @@
 - 🔭 Currently building projects with **Go, TypeScript, React, and Next.js**
 - 🌱 Learning **Backend Development, REST APIs, and Full-Stack Engineering**
 - 🎯 Focused on building reliable, scalable, and user-friendly applications
-- 📫 Reach me at: **[idilhaq08@gmail.com](mailto:idilhaq08@gmail.com)**
+- 📫 Reach me at: **[hello.idilhaq@gmail.com](mailto:hello.idilhaq@gmail.com)**
 - ⚡ Fun fact: Introvert by nature, developer by choice. 😶‍🌫️
 
 ---
